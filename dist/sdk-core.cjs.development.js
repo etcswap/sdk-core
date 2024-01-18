@@ -297,11 +297,7 @@ var MIXED_ROUTE_QUOTER_V1_ADDRESSES = /*#__PURE__*/SUPPORTED_CHAINS.reduce(funct
   return memo;
 }, {});
 var SWAP_ROUTER_02_ADDRESSES = function SWAP_ROUTER_02_ADDRESSES(chainId) {
-  if (chainId == exports.ChainId.BNB) {
-    return CHAIN_TO_ADDRESSES_MAP[chainId].swapRouter02Address;
-  }
-
-  return '0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45';
+  return CHAIN_TO_ADDRESSES_MAP[chainId].swapRouter02Address;
 };
 
 (function (TradeType) {

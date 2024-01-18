@@ -43,5 +43,5 @@ export declare const ENS_REGISTRAR_ADDRESSES: AddressMap;
 export declare const SOCKS_CONTROLLER_ADDRESSES: AddressMap;
 export declare const TICK_LENS_ADDRESSES: AddressMap;
 export declare const MIXED_ROUTE_QUOTER_V1_ADDRESSES: AddressMap;
-export declare const SWAP_ROUTER_02_ADDRESSES: (chainId: number) => string | undefined;
+export declare const SWAP_ROUTER_02_ADDRESSES: (chainId: SupportedChainsType) => string | undefined;
 export {};
