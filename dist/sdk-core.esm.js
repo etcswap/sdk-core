@@ -162,7 +162,7 @@ var CLASSIC_MORDOR_ADDRESSES = {
   multicallAddress: '0x6Ddc20b4Ac7e8E14a00B096c177fb51d53d61b32',
   quoterAddress: '0xb190c193717d7C795bd452d26abfe21Cef4813DA',
   v3MigratorAddress: '0xD36Fd7DB7F01e6E56719Eeb32204227B3643Fb5e',
-  nonfungiblePositionManagerAddress: 'nonfungibleTokenPositionManagerAddress',
+  nonfungiblePositionManagerAddress: '0x05b796e11a40a578C29cf8191dF5c6b1D9A1b8ec',
   tickLensAddress: '0x3C57Ed6837f4AAf28dfF253EC3724b1Bc199Bf82',
   swapRouter02Address: '0xA152302c4d9A029895187cd85e2D63359F96c3EC'
 }; // optimism goerli addresses
