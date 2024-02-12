@@ -149,22 +149,22 @@ var BNB_ADDRESSES = {
   swapRouter02Address: '0xB971eF87ede563556b2ED4b1C0b0019111Dd85d2'
 };
 var CLASSIC_ADDRESSES = {
-  v3CoreFactoryAddress: '',
-  multicallAddress: '',
-  quoterAddress: '',
-  v3MigratorAddress: '',
-  nonfungiblePositionManagerAddress: '',
-  tickLensAddress: '',
-  swapRouter02Address: ''
+  v3CoreFactoryAddress: '0x94bd693D28BeA5b271Be32Fb7d2815173876EC43',
+  multicallAddress: '0xd9B2968ef32FeC0556Cd85760Fc3b4B639C2f9db',
+  quoterAddress: '0xF86154dA256094A076efE43DB5Db4c26CC4EC171',
+  v3MigratorAddress: '0xf077B612e37125Bd91EA3eC2A168F5F2a4Dec2FA',
+  nonfungiblePositionManagerAddress: '0x54B5BBe91a2BC0A4Fb34d6b637580789825918e0',
+  tickLensAddress: '0xE1Eae4d9212AbFe76E626FAeF49F68548b874308',
+  swapRouter02Address: '0x5d6e8996233ffC5FfBe33d207E68a08a59bb1c9B'
 };
 var CLASSIC_MORDOR_ADDRESSES = {
-  v3CoreFactoryAddress: '0x6CDb6F10DD1BCb04c81A24481f5Dad01d0F0E533',
-  multicallAddress: '0x6Ddc20b4Ac7e8E14a00B096c177fb51d53d61b32',
-  quoterAddress: '0xb190c193717d7C795bd452d26abfe21Cef4813DA',
-  v3MigratorAddress: '0xD36Fd7DB7F01e6E56719Eeb32204227B3643Fb5e',
-  nonfungiblePositionManagerAddress: '0x05b796e11a40a578C29cf8191dF5c6b1D9A1b8ec',
-  tickLensAddress: '0x3C57Ed6837f4AAf28dfF253EC3724b1Bc199Bf82',
-  swapRouter02Address: '0xA152302c4d9A029895187cd85e2D63359F96c3EC'
+  v3CoreFactoryAddress: '0x94bd693D28BeA5b271Be32Fb7d2815173876EC43',
+  multicallAddress: '0xd9B2968ef32FeC0556Cd85760Fc3b4B639C2f9db',
+  quoterAddress: '0xF86154dA256094A076efE43DB5Db4c26CC4EC171',
+  v3MigratorAddress: '0xf077B612e37125Bd91EA3eC2A168F5F2a4Dec2FA',
+  nonfungiblePositionManagerAddress: '0x54B5BBe91a2BC0A4Fb34d6b637580789825918e0',
+  tickLensAddress: '0xE1Eae4d9212AbFe76E626FAeF49F68548b874308',
+  swapRouter02Address: '0x5d6e8996233ffC5FfBe33d207E68a08a59bb1c9B'
 }; // optimism goerli addresses
 
 var OPTIMISM_GOERLI_ADDRESSES = {
