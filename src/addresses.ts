@@ -92,23 +92,23 @@ const BNB_ADDRESSES: ChainAddresses = {
 }
 
 const CLASSIC_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x94bd693D28BeA5b271Be32Fb7d2815173876EC43',
-  multicallAddress: '0xd9B2968ef32FeC0556Cd85760Fc3b4B639C2f9db',
-  quoterAddress: '0xF86154dA256094A076efE43DB5Db4c26CC4EC171',
-  v3MigratorAddress: '0xf077B612e37125Bd91EA3eC2A168F5F2a4Dec2FA',
-  nonfungiblePositionManagerAddress: '0x54B5BBe91a2BC0A4Fb34d6b637580789825918e0',
-  tickLensAddress: '0xE1Eae4d9212AbFe76E626FAeF49F68548b874308',
-  swapRouter02Address: '0x5d6e8996233ffC5FfBe33d207E68a08a59bb1c9B' 
+  v3CoreFactoryAddress: '0x7F94e268eBC538e9aE4ac480CE9De0883d178Ddd',
+  multicallAddress: '0x8aceD9C13e55DB5895B6848D4130C1B4ad1f1613',
+  quoterAddress: '0xEbD0050DE986BcE7Ede8E13ebd50A68470230aB7',
+  v3MigratorAddress: '0x219A16E15E9B7424E0413de6e6f6Ba4367a9cfdD',
+  nonfungiblePositionManagerAddress: '0xC42AEde586bb1895c033b2a70cD55C6D27967F3e',
+  tickLensAddress: '0xBE3C17D1DCFD02CA5B3c3A9d9c70ac1481D04f9B',
+  swapRouter02Address: '0x0CdEB721E03403BeE0eBB2C819c11b1b33E22CAA' 
 }
 
 const CLASSIC_MORDOR_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x94bd693D28BeA5b271Be32Fb7d2815173876EC43',
-  multicallAddress: '0xd9B2968ef32FeC0556Cd85760Fc3b4B639C2f9db',
-  quoterAddress: '0xF86154dA256094A076efE43DB5Db4c26CC4EC171',
-  v3MigratorAddress: '0xf077B612e37125Bd91EA3eC2A168F5F2a4Dec2FA',
-  nonfungiblePositionManagerAddress: '0x54B5BBe91a2BC0A4Fb34d6b637580789825918e0',
-  tickLensAddress: '0xE1Eae4d9212AbFe76E626FAeF49F68548b874308',
-  swapRouter02Address: '0x5d6e8996233ffC5FfBe33d207E68a08a59bb1c9B' 
+  v3CoreFactoryAddress: '0x7F94e268eBC538e9aE4ac480CE9De0883d178Ddd',
+  multicallAddress: '0x8aceD9C13e55DB5895B6848D4130C1B4ad1f1613',
+  quoterAddress: '0xEbD0050DE986BcE7Ede8E13ebd50A68470230aB7',
+  v3MigratorAddress: '0x219A16E15E9B7424E0413de6e6f6Ba4367a9cfdD',
+  nonfungiblePositionManagerAddress: '0xC42AEde586bb1895c033b2a70cD55C6D27967F3e',
+  tickLensAddress: '0xBE3C17D1DCFD02CA5B3c3A9d9c70ac1481D04f9B',
+  swapRouter02Address: '0x0CdEB721E03403BeE0eBB2C819c11b1b33E22CAA' 
 }
 
 // optimism goerli addresses
