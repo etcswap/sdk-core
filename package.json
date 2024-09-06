@@ -1,18 +1,15 @@
 {
-  "name": "@uniswap/sdk-core",
+  "name": "@_etcswap/sdk-core",
   "license": "MIT",
   "version": "4.0.10",
-  "description": "⚒️ An SDK for building applications on top of Uniswap V3",
+  "description": "⚒️ An SDK for building applications on top of V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk-core.git",
-  "keywords": [
-    "uniswap",
-    "ethereum"
-  ],
+  "repository": "https://github.com/etcswap/sdk-core.git",
+  "keywords": [],
   "module": "dist/sdk-core.esm.js",
   "scripts": {
     "build": "tsdx build",
